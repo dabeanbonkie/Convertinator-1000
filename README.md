@@ -12,5 +12,14 @@ To use the Convertinator 1000, take a USB-C plugged into any socket (as long as 
 
 #Assembly
 Putting all the parts together is easy as can be. Since i figured this power supply wouldnt be moving much i havent mounted the pcb. So to assemble the Convertinator 1000, just print both components, put the pcb in the shell making sure all the gubbins on the bottom of the pcb cleanly fit into the groves on the bottom of the shell. Then mount the lid to the shell using a simple nut and bolt (4.8 mm) on the mounting holes on both parts. Then its all complete.
+
+Here is how the pcb should be placed from the bottom of the shell:
+
 <img width="515" height="720" alt="Image" src="https://github.com/user-attachments/assets/66136ae2-972d-4d9a-a34e-70019dc40f73" />
-Here is how the pcb should be placed from the bottom of the shell.
+
+#BOM
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
