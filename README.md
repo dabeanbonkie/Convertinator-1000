@@ -10,14 +10,14 @@ I designed this as a project that i could maybe use in the future when doing sma
 # Usage
 To use the Convertinator 1000, take a USB-C plugged into any socket (as long as it supplies 5V) and plug it into the USB-C component on the Convertinator 1000. From there, take two dupont wires and connect them to the two headers for each voltage. One header is for the output voltage which on each connection is the header on the left, and the other is the ground which is always on the right. I highly advise you NOT to run anything above 1A on the 1.2V, 3.3V & 5V headers and NOT anything above 1.8A on the 12V & 24V headers.
 
-#Assembly
+# Assembly
 Putting all the parts together is easy as can be. Since i figured this power supply wouldnt be moving much i havent mounted the pcb. So to assemble the Convertinator 1000, just print both components, put the pcb in the shell making sure all the gubbins on the bottom of the pcb cleanly fit into the groves on the bottom of the shell. Then mount the lid to the shell using a simple nut and bolt (4.8 mm) on the mounting holes on both parts. Then its all complete.
 
 Here is how the pcb should be placed from the bottom of the shell:
 
 <img width="515" height="720" alt="Image" src="https://github.com/user-attachments/assets/66136ae2-972d-4d9a-a34e-70019dc40f73" />
 
-#BOM
+# BOM
 
 | name                           | description | price (for units) | Link |
 | -------------------------------| ------------- | ---------------------------|----------|
@@ -28,7 +28,7 @@ Here is how the pcb should be placed from the bottom of the shell:
 | TMR_1-0515| Converter_DCDC:Converter_DCDC_TRACO_TMR-1-xxxx_Single_THT (amount: 1)| $ 9,60  (with tax: $ 11.62)| https://nl.mouser.com/ProductDetail/TRACO-Power/TMR-1-0515?qs=ckJk83FOD0V3ECmEksFjYA%3D%3D&srsltid=AfmBOooDnF0C603pYjjxqZwpNetQO7iFfVdhXASMeJvEFaneDIy_Nd5W |
 | AP7361C-12E| Step Down Voltage Regulator (amount :1)| $ 3,96 (with tax: $ 4.79)| https://www.digikey.nl/nl/products/detail/analog-devices-inc/ADP3338AKCZ-3.3-RL/994037?gclsrc=aw.ds&gad_source=1&gad_campaignid=20252971367&gbraid=0AAAAADrbLliaD6LTMp1CF3X2QJ6c757gd&gclid=CjwKCAjw9NjRBhATEiwA_p2J8fsopy2wre-vpmc76e9NPJ05GgQ3csTAmWMxEoNl-VS9nJujxQAppBoC-KsQAvD_BwE |
 
-
+# PCB schematic
 
 
 
