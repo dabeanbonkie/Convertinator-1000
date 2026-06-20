@@ -19,7 +19,7 @@ Here is how the pcb should be placed from the bottom of the shell:
 
 #BOM
 
-| item                           | Second Header |
+| item                           | description |
 | -------------------------------| ------------- |
 |USB4125-GF-A-0190               | USB-C Connector (*1)|
 |WR-PHD 2.54 MM SOCKET HEADER; 2 | 1*2 Female Dupont headers (*5)|
