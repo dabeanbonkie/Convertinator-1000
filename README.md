@@ -9,3 +9,6 @@ I designed this as a project that i could maybe use in the future when doing sma
 
 # Usage
 To use the Convertinator 1000, take a USB-C plugged into any socket (as long as it supplies 5V) and plug it into the USB-C component on the Convertinator 1000. From there, take two dupont wires and connect them to the two headers for each voltage. One header is for the output voltage which on each connection is the header on the left, and the other is the ground which is always on the right. I highly advise you NOT to run anything above 1A on the 1.2V, 3.3V & 5V headers and NOT anything above 1.8A on the 12V & 24V headers.
+
+#Assembly
+Putting all the parts together is easy as can be. Since i figured this power supply wouldnt be moving much i havent mounted the pcb. So to assemble the Convertinator 1000, just print both components, put the pcb in the shell making sure all the gubbins on the bottom of the pcb cleanly fit into the groves on the bottom of the shell. Then mount the lid to the shell using a simple nut and bolt (4.8 mm) on the mounting holes on both parts. Then its all complete.
