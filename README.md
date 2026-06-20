@@ -19,8 +19,16 @@ Here is how the pcb should be placed from the bottom of the shell:
 
 #BOM
 
-| item                           | description |
-| -------------------------------| ------------- |
-|USB4125-GF-A-0190               | USB-C Connector (*1)|
-|WR-PHD 2.54 MM SOCKET HEADER; 2 | 1*2 Female Dupont headers (*5)|
-|AMS1117| AMS1117-3.3| 
+| item                           | description | price (for units) | Link |
+| -------------------------------| ------------- | -----------|----------|
+| USB4125-GF-A-0190               | USB-C Connector (amount: 1)| $ 0,60	|
+| WR-PHD 2.54 MM SOCKET HEADER; 2 | 1*2 Female Dupont headers (amount: 5)| $ 0,38 per unit, $ 1,90 total |
+| AMS1117-3.3| Step Down Voltage Regulator (amount :1)| $ 0.30 |
+| TMR_1-0512| Converter_DCDC:Converter_DCDC_TRACO_TMR-1-xxxx_Single_THT (amount: 1)| $ 15.36 |
+| TMR_1-0515| Converter_DCDC:Converter_DCDC_TRACO_TMR-1-xxxx_Single_THT (amount: 1)| $ 9,60 |
+| AP7361C-12E| Step Down Voltage Regulator (amount :1)| $ 3,96 |
+
+
+
+
+
