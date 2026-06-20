@@ -23,3 +23,4 @@ Here is how the pcb should be placed from the bottom of the shell:
 | -------------------------------| ------------- |
 |USB4125-GF-A-0190               | USB-C Connector (*1)|
 |WR-PHD 2.54 MM SOCKET HEADER; 2 | 1*2 Female Dupont headers (*5)|
+|AMS1117| AMS1117-3.3| 
