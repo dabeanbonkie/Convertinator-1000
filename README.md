@@ -29,6 +29,7 @@ Here is how the pcb should be placed from the bottom of the shell:
 | AP7361C-12E| Step Down Voltage Regulator (amount :1)| $ 3,96 (with tax: $ 4.79)| https://www.digikey.nl/nl/products/detail/analog-devices-inc/ADP3338AKCZ-3.3-RL/994037?gclsrc=aw.ds&gad_source=1&gad_campaignid=20252971367&gbraid=0AAAAADrbLliaD6LTMp1CF3X2QJ6c757gd&gclid=CjwKCAjw9NjRBhATEiwA_p2J8fsopy2wre-vpmc76e9NPJ05GgQ3csTAmWMxEoNl-VS9nJujxQAppBoC-KsQAvD_BwE |
 
 # PCB schematic
+<img width="829" height="683" alt="Image" src="https://github.com/user-attachments/assets/e150783c-741e-45f1-8db4-023b6b9fd89f" />
 
 
 
