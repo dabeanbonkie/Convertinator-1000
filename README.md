@@ -20,7 +20,7 @@ Here is how the pcb should be placed from the bottom of the shell:
 #BOM
 
 | item                           | description | price (for units) | Link |
-| -------------------------------| ------------- | -----------|----------|
+| -------------------------------| ------------- | ---------------------------|----------|
 | USB4125-GF-A-0190               | USB-C Connector (amount: 1)| $ 0,60	(with tax: $ 0.73)| | https://nl.mouser.com/ProductDetail/GCT/USB4125-GF-A-0190?qs=QNEnbhJQKvbCz4hEJBS24w%3D%3D&mgh=1&utm_id=20333412842&utm_source=google&utm_medium=cpc&utm_marketing_tactic=emeacorp&gad_source=1&gad_campaignid=20337787384&gbraid=0AAAAADn_wf0-J8ZPiaWEc2p7nZkI8Egx1&gclid=CjwKCAjw9NjRBhATEiwA_p2J8TbbcIn--jgbaDbrnAjrV4zxDneDLBxv2wQ5ZcKiUP0pMeIcBXOIERoCALUQAvD_BwE |
 | WR-PHD 2.54 MM SOCKET HEADER; 2 | 1*2 Female Dupont headers (amount: 5)| $ 0,38 per unit, $ 1,90 total (with tax: $ 2.30) | https://www.digikey.nl/nl/products/detail/w-rth-elektronik/61300211821/21556337?gclsrc=aw.ds&gad_source=1&gad_campaignid=18731631328&gbraid=0AAAAADrbLlg8GG39wR-PqZE72XBdIeVth&gclid=CjwKCAjw9NjRBhATEiwA_p2J8c4z4aGKsrhAR5Fd26k98iVsSH0wUBbg9CbgHyMsw87i4K3XROsmlhoCHpgQAvD_BwE |
 | AMS1117-3.3| Step Down Voltage Regulator (amount :1)| $ 0.30 (with tax: $ 0.363) | https://www.digikey.nl/nl/products/detail/umw/AMS1117-3.3/17635254?gclsrc=aw.ds&gad_source=1&gad_campaignid=18731631328&gbraid=0AAAAADrbLlg8GG39wR-PqZE72XBdIeVth&gclid=CjwKCAjw9NjRBhATEiwA_p2J8e7fJyDa-4kdrUvqzgTWsfYkIJDbbBOVQrEF9TQRU03unzVr6sUrShoCddUQAvD_BwE |
