@@ -19,7 +19,8 @@ Here is how the pcb should be placed from the bottom of the shell:
 
 #BOM
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| item                           | Second Header |
+| -------------------------------| ------------- |
+|USB4125-GF-A-0190               | Content Cell  |
+|WR-PHD 2.54 MM SOCKET HEADER; 2 | https://www.digikey.nl/nl/products/detail/w-rth-elektronik/61300211821/21556337?gclsrc=aw.ds&gad_source=1&gad_campaignid=18731631328&gbraid=0AAAAADrbLlg8GG39wR-PqZE72XBdIeVth&gclid=CjwKCAjw9NjRBhATEiwA_p2J8c4z4aGKsrhAR5Fd26k98iVsSH0wUBbg9CbgHyMsw87i4K3XROsmlhoCHpgQAvD_BwE
+|
