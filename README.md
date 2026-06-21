@@ -31,5 +31,9 @@ Here is how the pcb should be placed from the bottom of the shell:
 # PCB schematic
 <img width="829" height="683" alt="Image" src="https://github.com/user-attachments/assets/e150783c-741e-45f1-8db4-023b6b9fd89f" />
 
+# Onshape Link
+https://cad.onshape.com/documents/8818f429682032fa239a6543/w/3c67bc1c1aed2304218f7515/e/04401e7b527ba54e698f04d5?renderMode=0&uiState=6a372eb3d7346ceef4239fb8
+
+
 
 
