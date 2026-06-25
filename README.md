@@ -1,5 +1,6 @@
 # Convertinator 1000 Showcase
-<img width="1410" height="2000" alt="Convertinator-1000 Zine" src="https://github.com/user-attachments/assets/4379f5a8-4c4f-442d-9d38-93d8cf8381d8" />
+<img width="1410" height="2000" alt="Convertinator Zine" src="https://github.com/user-attachments/assets/d853fcd0-defa-4677-be63-fb4eb2032672" />
+
 
 # Description
 The Convertinator 1000 is a basic power supply that converts voltage from a USB-C (5V) to 1.2V, 3.3V, 12V & 24V, also featuring an output for 5V. It has the input as the USB-C and the outputs as dupont headers as its main use is for prototyping small cicuits and basic breadboarding. It isnt made to handle strong current but the 12V & 24V connections should be able to handle a bit more.
