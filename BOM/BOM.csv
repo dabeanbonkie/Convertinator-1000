@@ -1,4 +1,4 @@
-"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet","LCSC link"
 "C4,C5","2","C","","","","",""
 "J1","1","USB_C_Receptacle_PowerOnly_6P","","","","Connector_USB:USB_C_Receptacle_GCT_USB4125-xx-x-0190_6P_TopMnt_Horizontal","https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
 "J2,J3,J5,J6,J7","5","Conn_01x02_Socket","","","","Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Horizontal",""
