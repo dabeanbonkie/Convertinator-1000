@@ -1,4 +1,5 @@
 # Convertinator 1000 Showcase
+
 <img width="1410" height="2000" alt="Convertinator Zine" src="https://github.com/user-attachments/assets/d853fcd0-defa-4677-be63-fb4eb2032672" />
 
 
@@ -30,7 +31,14 @@ Here is how the pcb should be placed from the bottom of the shell:
 | AP7361C-12E| Step Down Voltage Regulator (amount :1)| $ 3,96 (with tax: $ 4.79)| https://www.digikey.nl/nl/products/detail/analog-devices-inc/ADP3338AKCZ-3.3-RL/994037?gclsrc=aw.ds&gad_source=1&gad_campaignid=20252971367&gbraid=0AAAAADrbLliaD6LTMp1CF3X2QJ6c757gd&gclid=CjwKCAjw9NjRBhATEiwA_p2J8fsopy2wre-vpmc76e9NPJ05GgQ3csTAmWMxEoNl-VS9nJujxQAppBoC-KsQAvD_BwE |
 
 # PCB schematic
+
 <img width="829" height="683" alt="Image" src="https://github.com/user-attachments/assets/e150783c-741e-45f1-8db4-023b6b9fd89f" />
+
+# PCB images
+
+<img width="509" height="559" alt="image" src="https://github.com/user-attachments/assets/e0ae5236-1047-40f2-a000-f844eca212cd" />
+
+<img width="509" height="559" alt="image" src="https://github.com/user-attachments/assets/41234809-384b-490a-b26b-9033e969d784" />
 
 # Onshape Link
 https://cad.onshape.com/documents/8818f429682032fa239a6543/w/3c67bc1c1aed2304218f7515/e/04401e7b527ba54e698f04d5?renderMode=0&uiState=6a372eb3d7346ceef4239fb8
