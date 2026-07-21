@@ -23,11 +23,9 @@ Here is how the pcb should be placed from the bottom of the shell:
 
 <img width="835" height="735" alt="image" src="https://github.com/user-attachments/assets/20600af0-cd5c-4eaa-9a6d-b63eb1738fcb" />
 
-# PCB images
+# PCB editor 
 
-<img width="509" height="559" alt="image" src="https://github.com/user-attachments/assets/e0ae5236-1047-40f2-a000-f844eca212cd" />
-
-<img width="509" height="559" alt="image" src="https://github.com/user-attachments/assets/41234809-384b-490a-b26b-9033e969d784" />
+<img width="483" height="490" alt="image" src="https://github.com/user-attachments/assets/7ec85541-bc85-4104-93a1-31c412aa5d10" />
 
 # Onshape Link
 https://cad.onshape.com/documents/8818f429682032fa239a6543/w/3c67bc1c1aed2304218f7515/e/04401e7b527ba54e698f04d5?renderMode=0&uiState=6a372eb3d7346ceef4239fb8
