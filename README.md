@@ -19,17 +19,6 @@ Here is how the pcb should be placed from the bottom of the shell:
 
 <img width="515" height="720" alt="Image" src="https://github.com/user-attachments/assets/66136ae2-972d-4d9a-a34e-70019dc40f73" />
 
-# BOM
-
-| name                           | description | price (for units) | Link |
-| -------------------------------| ------------- | ---------------------------|----------|
-| USB4125-GF-A-0190               | USB-C Connector (amount: 1)| $ 0,60	(with tax: $ 0.73)| | https://nl.mouser.com/ProductDetail/GCT/USB4125-GF-A-0190?qs=QNEnbhJQKvbCz4hEJBS24w%3D%3D&mgh=1&utm_id=20333412842&utm_source=google&utm_medium=cpc&utm_marketing_tactic=emeacorp&gad_source=1&gad_campaignid=20337787384&gbraid=0AAAAADn_wf0-J8ZPiaWEc2p7nZkI8Egx1&gclid=CjwKCAjw9NjRBhATEiwA_p2J8TbbcIn--jgbaDbrnAjrV4zxDneDLBxv2wQ5ZcKiUP0pMeIcBXOIERoCALUQAvD_BwE |
-| WR-PHD 2.54 MM SOCKET HEADER; 2 | 1*2 Female Dupont headers (amount: 5)| $ 0,38 per unit, $ 1,90 total (with tax: $ 2.30) | https://www.digikey.nl/nl/products/detail/w-rth-elektronik/61300211821/21556337?gclsrc=aw.ds&gad_source=1&gad_campaignid=18731631328&gbraid=0AAAAADrbLlg8GG39wR-PqZE72XBdIeVth&gclid=CjwKCAjw9NjRBhATEiwA_p2J8c4z4aGKsrhAR5Fd26k98iVsSH0wUBbg9CbgHyMsw87i4K3XROsmlhoCHpgQAvD_BwE |
-| AMS1117-3.3| Step Down Voltage Regulator (amount :1)| $ 0.30 (with tax: $ 0.363) | https://www.digikey.nl/nl/products/detail/umw/AMS1117-3.3/17635254?gclsrc=aw.ds&gad_source=1&gad_campaignid=18731631328&gbraid=0AAAAADrbLlg8GG39wR-PqZE72XBdIeVth&gclid=CjwKCAjw9NjRBhATEiwA_p2J8e7fJyDa-4kdrUvqzgTWsfYkIJDbbBOVQrEF9TQRU03unzVr6sUrShoCddUQAvD_BwE |
-| TMR_1-0512| Converter_DCDC:Converter_DCDC_TRACO_TMR-1-xxxx_Single_THT (amount: 1)| $ 15.36 (with tax: $ 18.59)| https://www.verical.com/pd/traco-electronic-ag-dc-dc-converter---regulator-modules-tmr0512-654650?utm_source=google&utm_medium=cpc&utm_campaign=brand_g-ppc-verical-emea-sku-english-en-electromechanical-verical_only-v4_q1_2025&utm_content=emea_en&gclsrc=aw.ds&gad_source=1&gad_campaignid=20881764860&gbraid=0AAAAADEt2opQLyZ3Vq_CSthlccwGRf045&gclid=CjwKCAjw9NjRBhATEiwA_p2J8RfCwhRbOkDoAn_7agMFW_UtzVX-x-yK7wlsQcp13RKAOCMngvoxSxoCjrEQAvD_BwE |
-| TMR_1-0515| Converter_DCDC:Converter_DCDC_TRACO_TMR-1-xxxx_Single_THT (amount: 1)| $ 9,60  (with tax: $ 11.62)| https://nl.mouser.com/ProductDetail/TRACO-Power/TMR-1-0515?qs=ckJk83FOD0V3ECmEksFjYA%3D%3D&srsltid=AfmBOooDnF0C603pYjjxqZwpNetQO7iFfVdhXASMeJvEFaneDIy_Nd5W |
-| AP7361C-12E| Step Down Voltage Regulator (amount :1)| $ 3,96 (with tax: $ 4.79)| https://www.digikey.nl/nl/products/detail/analog-devices-inc/ADP3338AKCZ-3.3-RL/994037?gclsrc=aw.ds&gad_source=1&gad_campaignid=20252971367&gbraid=0AAAAADrbLliaD6LTMp1CF3X2QJ6c757gd&gclid=CjwKCAjw9NjRBhATEiwA_p2J8fsopy2wre-vpmc76e9NPJ05GgQ3csTAmWMxEoNl-VS9nJujxQAppBoC-KsQAvD_BwE |
-
 # PCB schematic
 
 <img width="829" height="683" alt="Image" src="https://github.com/user-attachments/assets/e150783c-741e-45f1-8db4-023b6b9fd89f" />
