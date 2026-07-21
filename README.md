@@ -21,7 +21,7 @@ Here is how the pcb should be placed from the bottom of the shell:
 
 # PCB schematic
 
-<img width="829" height="683" alt="Image" src="https://github.com/user-attachments/assets/e150783c-741e-45f1-8db4-023b6b9fd89f" />
+<img width="835" height="735" alt="image" src="https://github.com/user-attachments/assets/20600af0-cd5c-4eaa-9a6d-b63eb1738fcb" />
 
 # PCB images
 
